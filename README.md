@@ -1,5 +1,6 @@
 # ArrayHelper
 Today I made a repo to make Array helper functions.
+This library is going to have 100 functions.
 # Function list:
 1. RandomArray: makes an array with random numbers.
 2. WriteArray: writes array in a csv file
