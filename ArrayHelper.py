@@ -1,8 +1,9 @@
 def RandomArray(min, max, number):
     pass
-def WriteArray(location):
+def WriteArray(array, location):
     pass
 def AddArray(array1, array2):
-    pass
+    for i in range(len(array2)):
+        array1.append(array2[i])
 def DeleteArray(array1, array2):
     pass
