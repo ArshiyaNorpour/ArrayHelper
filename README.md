@@ -1,6 +1,6 @@
 # ArrayHelper
 Today I made a repo to make Array helper functions.
-# function list:
+# Function list:
 1. RandomArray: makes an array with random numbers.
 2. WriteArray: writes array in a csv file
 3. AddArray: makes two arrays in one array
