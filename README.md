@@ -14,5 +14,6 @@ Just Python 3
 # Installation:
 Just download it or clone
 ...
+
  git clone "url"
 ...
