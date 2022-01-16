@@ -3,8 +3,11 @@ def RandomArray(min, max, number):
 def AddArray(array1, array2):
     for i in range(len(array2)):
         array1.append(array2[i])
+        return array1
 def DeleteArray(array1, array2):
-    pass
+    for i in range(len(array2)):
+        array1.remove(array2[i])
+        return array1
 def NumberArray(array):
     pass
 def StringArray(array):
@@ -19,3 +22,4 @@ def ExchangeSortArray(array):
     pass
 def LastArray(array):
     pass
+
