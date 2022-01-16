@@ -15,7 +15,7 @@ This library is going to have 100 functions.
 8. ValueArrays: find values that are in array1 and array2 for example:
 > ValueArrays([1,2,3,4], [3,4,5,6]) = [3,4]
 9. ExchangeSortArray: sorts array with ExchangeSort algorithm
-10. LastArray: makes your array to starts with last index fore xample:
+10. LastArray: makes your array to starts with last index for example:
 > LastArray([1,2,3,4]) = [4,3,2,1]
 # Requierments:
 Just Python 3
