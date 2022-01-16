@@ -13,7 +13,10 @@ def NumberArray(array):
     for i in range(len(array)):
         s += array[i]
 def StringArray(array):
-    pass
+    s = ""
+    for i in range(len(array)):
+        s += "%s" %array[i]
+    return s
 def LastNumberArray(array):
     pass
 def LastStringArray(array):
