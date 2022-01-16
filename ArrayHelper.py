@@ -9,7 +9,9 @@ def DeleteArray(array1, array2):
         array1.remove(array2[i])
         return array1
 def NumberArray(array):
-    pass
+    s = 0
+    for i in range(len(array)):
+        s += array[i]
 def StringArray(array):
     pass
 def LastNumberArray(array):
