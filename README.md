@@ -2,6 +2,8 @@
 This library is going to have 100 functions.
 ![GitHub](https://img.shields.io/github/license/ArshiyaNorpour/ArrayHelper)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/ArshiyaNorpour/ArrayHelper/main/a670cdd7b3eea57601de3db4a2fa5510e21365b4)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ArshiyaNorpour/ArrayHelper)
+![GitHub repo size](https://img.shields.io/github/repo-size/ArshiyaNorpour/ArrayHelper)
 # Function list:
 1. RandomArray: makes an array with random numbers.
 2. AddArray: makes two arrays in one array
